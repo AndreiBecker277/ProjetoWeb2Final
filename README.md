@@ -4,7 +4,7 @@
 
 - O projeto tem como objetivo criar um sistema De comércio eletrônico Web funcional,
 - tendo cadastro e login de usuario , Venda de produtos com a funcionalidade do proprio usuario
-- podendo fazer vendas.
+- podendo fazer vendas e tambem a possibilidade de dar feedbacks.
 
   ## Link do Protótipo do projeto feito no Canva:
   
