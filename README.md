@@ -26,4 +26,4 @@
   - Andrei Becker Dos Reis: Lider Organizador e auxiliar do projeto.
   - Leonardo Stroher: Ficou Com a parte Visual web e estilização do próprio.
   - Guilherme Tavares: Realizou a parte lógica por trás do projeto.
-  - Lucas Jaider: Fez dupla na parte de progrmação com o Guilherme Ou seja a mesma Função.
+  - Lucas Jaider: Realizou a parte lógica por trás do projeto.
