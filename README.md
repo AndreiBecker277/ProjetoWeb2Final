@@ -6,13 +6,13 @@
 - tendo cadastro e login de usuario , Venda de produtos com a funcionalidade do proprio usuario
 - podendo fazer vendas e tambem a possibilidade de dar feedbacks.
 
-  ## Link do Protótipo do projeto feito no Canva:
+  ## Protótipo do projeto feito no Canva:
   
-  ![assets]()
-  ![assets]()
-  ![assets]()
-  ![assets]()
-  ![assets]()
+  ![assets](https://github.com/AndreiBecker277/assets/blob/main/1.png)
+  ![assets](https://github.com/AndreiBecker277/assets/blob/main/2.png)
+  ![assets](https://github.com/AndreiBecker277/assets/blob/main/3.png)
+  ![assets](https://github.com/AndreiBecker277/assets/blob/main/4.png)
+  ![assets](https://github.com/AndreiBecker277/assets/blob/main/5.png)
     
  
   ## Relação das tabelas do Projeto:
