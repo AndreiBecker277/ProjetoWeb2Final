@@ -10,7 +10,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $senha = $_POST['senha'];
     $crud->create($nome, $email, $endereco, $senha,);
     echo 'Registro salvo com sucesso!!';
-    header('refresh:3,home.php');
+    header('refresh:3,produto.php');
     exit();
 } ?>
 
@@ -27,7 +27,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 <body>
     <header>
-        <img src="./uploads/logoIdBit.png" alt="">
+    <img src="./uploads/idBitNew.jpeg" alt="">
         <h1>IdBit</h1>
         <ul>
 

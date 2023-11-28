@@ -13,7 +13,10 @@ header {
 }
 header img {
     padding: 50px;
-    height: 70px;
+    height: 80px;
+    width: 80px;
+    border-radius: 200px;
+
 }
 ul li a {
     color: #EF4992 ;

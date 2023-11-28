@@ -12,7 +12,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     $crud->create($fkusuario, $fkfeedback, $fkproduto);
     echo 'Registro salvo com sucesso!!';
-    header('refresh:3,index.php');
+    header('refresh:3,produto.php');
     exit();
 } ?>
 
@@ -27,7 +27,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 </head>
 
 <header>
-    <img src="./uploads/logoIdBit.png" alt="">
+    <img src="./uploads/idBitNew.jpeg" alt="">
     <h1>IdBit</h1>
     <ul>
 
@@ -93,8 +93,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     </main>
 </body>
 <div class="boxDisc">
-               <button><a href="logout.php.php">Desconectar Conta</a></button>
-            </div>
+    <button><a href="logout.php">Desconectar Conta</a></button>
+</div>
 <footer>
     <a href=""><img src="./uploads/instagram.png" alt=""></a>
     <a href=""><img src="./uploads/facebook.png" alt=""></a>

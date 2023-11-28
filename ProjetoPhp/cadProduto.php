@@ -87,7 +87,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     <body>
         <header>
-            <img src="./uploads/logoIdBit.png" alt="">
+            <img src="./uploads/idBitNew.jpeg" alt="">
             <h1>IdBit</h1>
             <ul>
 

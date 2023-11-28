@@ -27,7 +27,7 @@ if (isset($_POST['buscar'])) {
 
 
     <header>
-        <img src="./uploads/logoIdBit.png" alt="">
+        <img src="./uploads/idBitNew.jpeg" alt="">
         <h1>IdBit</h1>
         <ul>
 
@@ -36,7 +36,7 @@ if (isset($_POST['buscar'])) {
             <li><a href="./cadUsu.php">Cadastro</a></li>
             <li><a href="./feedback.php">FeedBack</a></li>
             <li><a href="./cadProduto.php">Vender</a></li>
-            <li><a href="./relacionamentos.php">relacionamentos</a></li>
+            <li><a href="./relacionamentos.php">Relacionamentos</a></li>
 
 
         </ul>

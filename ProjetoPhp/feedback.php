@@ -11,7 +11,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $feedback = $_POST['feed'];
     $crud->create($nome, $feedback);
     echo 'Registro salvo com sucesso!!';
-    header('refresh:3,home.php');
+    header('refresh:3,produto.php');
     exit();
 } ?>
 
@@ -27,7 +27,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 <body>
     <header>
-        <img src="./uploads/logoIdBit.png" alt="">
+    <img src="./uploads/idBitNew.jpeg" alt="">
         <h1>IdBit</h1>
         <ul>
 
