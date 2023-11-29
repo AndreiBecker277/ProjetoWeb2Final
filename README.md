@@ -3,16 +3,17 @@
 ## Sobre o Projeto:
 
 - O projeto tem como objetivo criar um sistema De comércio eletrônico Web funcional,
-- tendo cadastro e login de usuario , Venda de produtos com a funcionalidade do proprio usuario
-- podendo fazer vendas e tambem a possibilidade de dar feedbacks.
+- Tendo cadastro e login de usuario , Venda de produtos com a funcionalidade do proprio usuario
+- Podendo fazer vendas e tambem a possibilidade de dar feedbacks e relacionamento onde ele diz oque qual usuario está relacionado ao produto e feedback.
 
   ## Protótipo do projeto feito no Canva:
   
-  ![assets](https://github.com/AndreiBecker277/assets/blob/main/1.png)
-  ![assets](https://github.com/AndreiBecker277/assets/blob/main/2.png)
-  ![assets](https://github.com/AndreiBecker277/assets/blob/main/3.png)
-  ![assets](https://github.com/AndreiBecker277/assets/blob/main/4.png)
-  ![assets](https://github.com/AndreiBecker277/assets/blob/main/5.png)
+  ![assets](https://github.com/AndreiBecker277/assets/blob/main/pg1.png)
+  ![assets](https://github.com/AndreiBecker277/assets/blob/main/pg2.png)
+  ![assets](https://github.com/AndreiBecker277/assets/blob/main/pg3.png)
+  ![assets](https://github.com/AndreiBecker277/assets/blob/main/pg4.png)
+  ![assets](https://github.com/AndreiBecker277/assets/blob/main/pg5.png)
+  ![assets](https://github.com/AndreiBecker277/assets/blob/main/pg6.png)
     
  
   ## Relação das tabelas do Projeto:
