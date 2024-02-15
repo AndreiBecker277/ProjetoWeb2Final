@@ -1,5 +1,9 @@
 # Projeto Ulbra São Lucas
 
+## Descrição Atualizada:
+Esse projeto foi criado em aula porem o projeto em parte grafica não é o ponto forte mas suas funções são funcionais o backend é a parte cujo o grupo tem muito mais afinidade logico sempre procuramos melhorar
+,alem do pouco tempo para focar o devido esforço por razões externas.
+
 ## Sobre o Projeto:
 
 - O projeto tem como objetivo criar um sistema De comércio eletrônico Web funcional,
